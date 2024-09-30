@@ -1,16 +1,19 @@
-# online_music_shop
+# Соловьева Анна ЭФБО-01-22 Практическая работа №3
 
-A new Flutter project.
+Создание каталога товаров на определенную тему с переходом на страницу с информацией о выбранном товаре.
 
-## Getting Started
+## Тема проекта:
 
-This project is a starting point for a Flutter application.
+Продажа виниловых пластинок музыкальной группы "Broken Bells".
 
-A few resources to get you started if this is your first Flutter project:
+## Этапы работы:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Создание макета будущего приложения в Figma.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/fec3d6e2-91da-4514-8c38-bdfa3bb61428)
+
+2. Поиск подробной информации о музыкальных альбомах группы (хранится в папке data).
+
+3. Верстка проекта по макету.
+
+![image](https://github.com/user-attachments/assets/99b71aa9-4961-47c2-a422-6c906d9aff8c)
